@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &184568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 460562}
+  - 114: {fileID: 11483104}
+  m_Layer: 0
+  m_Name: SM
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &460562
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184568}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 13.26, y: -24.22, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11483104
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25de2b8d69293e541ab941faf34b4918, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 155782, guid: 429f19c79fd309e488d4d2a62f87f4d0, type: 2}
+  volume: 5
+  pasosAgua:
+  - {fileID: 8300000, guid: 2313fc7e19b3738429e78075694496fa, type: 3}
+  - {fileID: 8300000, guid: c1bf959b608dc244ca6b3e38375ed4d4, type: 3}
+  - {fileID: 8300000, guid: 6501df5ea8266b446b086adb29d9b442, type: 3}
+  - {fileID: 8300000, guid: 2a4bbee8965d0d94f9200f9244397400, type: 3}
+  movAgua: {fileID: 8300000, guid: 2bbe1369b5efe184ca5016875981ffec, type: 3}
+  atraviesaPortal:
+  - {fileID: 8300000, guid: 93a0aca1e8c29254699f065c9e6399ae, type: 3}
+  - {fileID: 8300000, guid: eca18c4d0be781746beb167b968036f7, type: 3}
+  - {fileID: 8300000, guid: 096a529e43929b446ad099e89641c3b2, type: 3}
+  - {fileID: 8300000, guid: 4a5c7aed116c4e94d9e951cf1707bcbe, type: 3}
+  lanzaLlama:
+  - {fileID: 8300000, guid: 3d7e453b51250f34da4d8bcd88a8b960, type: 3}
+  - {fileID: 8300000, guid: 57db5fca73677d64e8d14d55fb391359, type: 3}
+  - {fileID: 8300000, guid: 41821ebad9ddd244f8599b2012310fcb, type: 3}
+  - {fileID: 8300000, guid: 52332473fbac13f42830d097dfb3766d, type: 3}
+  hechizoFuego:
+  - {fileID: 8300000, guid: 38202c2d0e409a144b82b32519457cd6, type: 3}
+  - {fileID: 8300000, guid: 1c1cbff0e19e7eb469f99093fd6e18b4, type: 3}
+  choqueFuego:
+  - {fileID: 8300000, guid: aea9c47aae2011c4e80a80bc20a3c026, type: 3}
+  - {fileID: 8300000, guid: c60d0b19765200b449dad159722b00bf, type: 3}
+  - {fileID: 8300000, guid: b65506d461050594eb13514067e79455, type: 3}
+  rafagaTelequinesis:
+  - {fileID: 8300000, guid: 1fb45e6c3a8f4114db288ea4d575dfb8, type: 3}
+  - {fileID: 8300000, guid: ff6ba043604b1dc408441a26e88f1a38, type: 3}
+  - {fileID: 8300000, guid: 18a55235f8f4e5744b36ad0f60169117, type: 3}
+  gestoSalto:
+  - {fileID: 8300000, guid: cafe305e40223da4c804ee4a78bc834b, type: 3}
+  - {fileID: 8300000, guid: 11f008c6d80270344982308698fcba86, type: 3}
+  - {fileID: 8300000, guid: 38c5b84380d3b6e46b063008ae4c0a6f, type: 3}
+  salto1:
+  - {fileID: 8300000, guid: 0c48a184a3f9c144dbc8d6e7d9ce52d1, type: 3}
+  - {fileID: 8300000, guid: b82a1429eec5ec24192b0f0373adea8a, type: 3}
+  - {fileID: 8300000, guid: a78a05897374cb0469864875bbb912cb, type: 3}
+  - {fileID: 8300000, guid: 9de63052c261ba04c878df44501d0b36, type: 3}
+  salto2:
+  - {fileID: 8300000, guid: b5d25be42d1ac524fb7d5a3cd9127bf4, type: 3}
+  - {fileID: 8300000, guid: 8b9aea39f4501154da7c228c3916d219, type: 3}
+  - {fileID: 8300000, guid: d531fa976a97fdd4b958ea81c302657e, type: 3}
+  - {fileID: 8300000, guid: 098645de8d3f32040840abf284ec986b, type: 3}
+  caidaCaja:
+  - {fileID: 8300000, guid: 20fcaf4711d93c545b937ac0cac40d35, type: 3}
+  - {fileID: 8300000, guid: c81f7356ab1d1744abee7227dbfa5606, type: 3}
+  caidaMetal:
+  - {fileID: 8300000, guid: e1d2a0b98204e4146aa8963456538144, type: 3}
+  - {fileID: 8300000, guid: 1d058a7cc2d959e4589e8f5e152d95d2, type: 3}
+  - {fileID: 8300000, guid: 2fbcf42d797688540bd95c2893242e4b, type: 3}
+  gestoCaida:
+  - {fileID: 8300000, guid: 0987f3c7bb47f7c4cb8818d7f61028f3, type: 3}
+  - {fileID: 8300000, guid: bb93c03c3631d0642bce2b95b2d66c41, type: 3}
+  - {fileID: 8300000, guid: 9203ea54037cc7849b52d2f5cbc9fd66, type: 3}
+  - {fileID: 8300000, guid: dfe434e2907ad5e46af92c9e79eb9755, type: 3}
+  enemigoAtaque:
+  - {fileID: 8300000, guid: 46fac6d8c6969b14384bae14cab52cd2, type: 3}
+  - {fileID: 8300000, guid: b977e96183527a043a6c9494f32cd02c, type: 3}
+  - {fileID: 8300000, guid: 99a2f15d7e9334e429c304a7004d7eff, type: 3}
+  enemigoMuerte:
+  - {fileID: 8300000, guid: fea248a866f13ed44aa7b276cdb0f5bf, type: 3}
+  - {fileID: 8300000, guid: f9b5914c6c0b8d649ac3377aa6a9b6af, type: 3}
+  cerrojo:
+  - {fileID: 8300000, guid: 2268dcf3585ba4840aaf795604a85763, type: 3}
+  - {fileID: 8300000, guid: 35c4f6fd2ef17ef409e50bc4f9098087, type: 3}
+  - {fileID: 8300000, guid: 6b34e53ab93471f4f97677556c6297c0, type: 3}
+  - {fileID: 8300000, guid: 0617ae80cda8f2f47bcb7044406741e5, type: 3}
+  desbloqueo: {fileID: 8300000, guid: c7134eb50af9b3248bff333f67873996, type: 3}
+  menuPaginas:
+  - {fileID: 8300000, guid: e8c600adf6c26bb4bb82aab50e772301, type: 3}
+  - {fileID: 8300000, guid: d638492250866bd409d0cc1ef2e95984, type: 3}
+  - {fileID: 8300000, guid: 78e2c30079a7ff547b29bb3133c9ce74, type: 3}
+  deslizaMenu:
+  - {fileID: 8300000, guid: fbf5e83ef2d11a74ca645e4e387659ce, type: 3}
+  - {fileID: 8300000, guid: 156ff87e51af60449acd5a0bd5e78405, type: 3}
+  - {fileID: 8300000, guid: e042d2bdbd017fa4dada44728704744f, type: 3}
+  eligeMenu:
+  - {fileID: 8300000, guid: c4406faf4282c4045aed426acb86f282, type: 3}
+  - {fileID: 8300000, guid: c81f1741e9782b04eada398912eb43b4, type: 3}
+  - {fileID: 8300000, guid: b31a18f1aeb76d048a11648754f74fc5, type: 3}
+  hechizoViento:
+  - {fileID: 8300000, guid: 9f5cdfdb4dd5c504aa749fac33da48cb, type: 3}
+  - {fileID: 8300000, guid: d622b3a3daf0ef645b68523172ad43d1, type: 3}
+  - {fileID: 8300000, guid: 3e6fa98466c2f8742ad1f9b390a05355, type: 3}
+  hechizoAgua:
+  - {fileID: 8300000, guid: c8f658dd3e6d3ba41b7db1a3e984a642, type: 3}
+  - {fileID: 8300000, guid: c9da20d05c047314098a040ce051afac, type: 3}
+  - {fileID: 8300000, guid: 1d6ccddeeab5d314782c36d86c6f0989, type: 3}
+  muerteGesto:
+  - {fileID: 8300000, guid: 645809af28f1c9047be531f0233bf584, type: 3}
+  - {fileID: 8300000, guid: 1862d1df5ad8c90468f25e2b37f15027, type: 3}
+  - {fileID: 8300000, guid: 5d450863d5813914593572305bcb2fbf, type: 3}
+  pocion:
+  - {fileID: 8300000, guid: 1737d3aa435b3624ca5f019bc028634a, type: 3}
+  - {fileID: 8300000, guid: e72d35cb4450f754c87e4959d8550963, type: 3}
+  - {fileID: 8300000, guid: 361f9c424bfb3e84295b71b6cc1164d4, type: 3}
+  voladorAtaque:
+  - {fileID: 8300000, guid: 6218abd78dbcfc5489fbb5c21b8ded2b, type: 3}
+  - {fileID: 8300000, guid: ba44ce2901facad468773786998e6d7d, type: 3}
+  - {fileID: 8300000, guid: bc8c93de3fced7c4993b2fcf44045ee2, type: 3}
+  voladorMuerte:
+  - {fileID: 8300000, guid: 799c99f3f4c3e1b408eeefc6d9b52a50, type: 3}
+  - {fileID: 8300000, guid: 094d568a7acb6434fb4e929b70820351, type: 3}
+  - {fileID: 8300000, guid: 9bfb9ec905c77874ea81abad87d42685, type: 3}
+  rompeCaja:
+  - {fileID: 8300000, guid: beb35b8469a2d3d42a471562509c4309, type: 3}
+  - {fileID: 8300000, guid: e68f249aded908142b0c3704f347d314, type: 3}
+  - {fileID: 8300000, guid: 1e35b3b162acebd42b57cd4619b20609, type: 3}
+  cierraPuerta: {fileID: 8300000, guid: 6f2218b65aedf104d874ea388209f53e, type: 3}
+  fadeTime: 0
+  waterWalk: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 155782, guid: 429f19c79fd309e488d4d2a62f87f4d0, type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 184568}
+  m_IsPrefabParent: 1

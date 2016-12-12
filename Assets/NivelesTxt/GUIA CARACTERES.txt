@@ -1,0 +1,52 @@
+A - Agua
+a - Superficie Agua
+B - Barricada
+b - Barricada Destruida
+C - Caja Madera
+c - Caja Metal
+D - Trampilla-Base
+d - 
+E - Escalera Madera
+e - Escalera Piedra
+F - Suelo Piedra - (Floor)
+f - Suelo Madera - 
+G - Suelo Tierra/Cesped - (Ground)
+g - Subsuelo Tierra - (Ground)
+H - Porton
+h - Cartel Record Tiempos
+I - 
+i - 
+J - Jugador/respawner
+j - 
+K - 
+k - 
+L - Puente Izq
+l - 
+M - Puente Norm 
+m - 
+N - Puente Der
+n - 
+O - Pocion Grande  
+o - Pocion Pequeña
+P - Portal
+p - 
+Q - Spawner Bichos
+q - 
+R - Aplique Pared
+r - 
+S - Candelabro OFF
+s - Candelabro ON
+T - Antorcha
+t - Candelabro ON
+U - Silla Izq
+u - 
+V - Mesa
+v - 
+W - Silla Der
+w - 
+X - Estantería Libros
+x - 
+Y - Boton
+y -
+Z - Glifo 
+z - Barril

@@ -1,0 +1,45 @@
+                             F F F F F F F F 
+                             FFFFFFFFFFFFFFF
+                              F           F
+                         D   PF           F
+                         FFFFFF   M   M   FFFFFF
+                     c   FFFFFF           FFFFFF
+                     C    FFF       T       FFF
+F F F                C    FFF  M  M   M  M  FFF
+FFFFF                C    FFF               FFF
+ TTT                 C    FFF    T     T    FFF
+  H  e           F   C    FFF M           M FFF
+FFFFFEFFLMMMMNFFFF   C    FFF               FFF
+FFFFFEFF             C    FFF   T   Z   T   FFF
+     E               F    FFF M           M FFF
+     E                    FFF               FFF
+     E                    FFF    T     T    FFF
+     E                    FFF  M         M  FFF
+     E                    FFF       T       FFFFF
+     E                    FFFP            QFFFFF
+     E    cc              FFFFFLMMMMMMMMNFFFFFFF
+TZ T E   cccc    e    e   FFF              FFFFF
+FFFFFFFFFFFFFFFFFEaaaFEaaaFFF              FFFFF
+FFFFFFFFFFFFFFFFFEAAAFEAAAFFF              FFFFF
+FFFFFFFFFFFFFFFFFEAAAFEAAAFFF      H       FFFFF
+FFFFFF  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+F    F  FFFFF  FFFFFFFF                     F
+F  c    FFFFF  FFFFFFFF          T       T  F
+FP   F  FFFFF  FFFFFFFF                    PF
+FFFFFF  F   F  FFFFFFFF   T      F T   T FFFF
+FFFFFF         F    FFF      T T F       FFFF
+FFFFFF  F P F  F   YFFFP  F      F F   F FFFF
+FFFFFF  FFFFF  F  FFFFFFF F  F F F F   F FFFF
+FFFFFF  FFFFF  F    FFFFF F  F F F F   F FF
+FFFFFF  FFFFF      PFFFFF F  F F F F   F FF
+FFFFFF  FFFFF  FFFFFFFFFF F  F F F F   F FF
+FFFFFF  FFFFF  FFFFFFFFFF F  F F F F   F FF
+FFFFFFFFFFFFF  FFFFFFFFFF F  F F F F   F FF
+FFFFFFFFFFFFF  FFFFFFFFFF F  F F F F   F FF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FF                     F    FaaaaaaaaFFFF
+FF              T  T T F    FAAAAAAAAFFFF
+FF H    PT TPT TPT TPT FP H FPAAAAAAPFFFF 
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
