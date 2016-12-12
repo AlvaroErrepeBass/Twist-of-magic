@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: bb9fc1050dea74f499411693d210616a
+timeCreated: 1461318674
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "animaci\xF3n muerte_0"
+    21300002: "animaci\xF3n muerte_1"
+    21300004: "animaci\xF3n muerte_2"
+    21300006: "animaci\xF3n muerte_3"
+    21300008: "animaci\xF3n muerte_4"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "animaci\xF3n muerte_0"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -14, y: 14}
+        - {x: -26, y: -11}
+        - {x: -26, y: -20}
+        - {x: 26, y: -20}
+        - {x: 26, y: 20}
+    - name: "animaci\xF3n muerte_1"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 19.5}
+        - {x: 4, y: 19.5}
+        - {x: -3, y: 17.5}
+        - {x: -12, y: 7.5}
+        - {x: -11, y: 2.5}
+        - {x: -26, y: -12.5}
+        - {x: -26, y: -19.5}
+        - {x: 26, y: -19.5}
+        - {x: 26, y: 8.5}
+        - {x: 25, y: 18.5}
+    - name: "animaci\xF3n muerte_2"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 52
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 19.5}
+        - {x: -7, y: 19.5}
+        - {x: -26, y: -4.5}
+        - {x: -26, y: -19.5}
+        - {x: 26, y: -19.5}
+        - {x: 26, y: 18.5}
+    - name: "animaci\xF3n muerte_3"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 52
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 19.5}
+        - {x: -8, y: 19.5}
+        - {x: -26, y: -6.5}
+        - {x: -26, y: -19.5}
+        - {x: 26, y: -19.5}
+        - {x: 26, y: 11.5}
+        - {x: 25, y: 18.5}
+    - name: "animaci\xF3n muerte_4"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 52
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -26, y: -9}
+        - {x: -26, y: -16}
+        - {x: 26, y: -16}
+        - {x: 26, y: 5}
+        - {x: 24, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
